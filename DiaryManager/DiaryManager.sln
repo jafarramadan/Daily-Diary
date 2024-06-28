@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiaryManager", "DiaryManager.csproj", "{297054AA-BB2B-49A6-8420-18AC1CFFAC11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiaryManagerTests", "..\DiaryManagerTests\DiaryManagerTests.csproj", "{279649FB-BBBC-4E12-96E4-121DAB7669B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{297054AA-BB2B-49A6-8420-18AC1CFFAC11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297054AA-BB2B-49A6-8420-18AC1CFFAC11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297054AA-BB2B-49A6-8420-18AC1CFFAC11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297054AA-BB2B-49A6-8420-18AC1CFFAC11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{279649FB-BBBC-4E12-96E4-121DAB7669B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279649FB-BBBC-4E12-96E4-121DAB7669B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279649FB-BBBC-4E12-96E4-121DAB7669B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279649FB-BBBC-4E12-96E4-121DAB7669B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5220BFEA-12CD-4B53-ABE8-17B0999C1F12}
+	EndGlobalSection
+EndGlobal
